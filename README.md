@@ -1,1 +1,1 @@
-#Basic Runelite plugin that displays a timer indicating time until logout based off your last click.
+# Basic Runelite plugin that displays a timer indicating time until logout based off your last click.
